@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Getting Started
 ```
-Navigate to the root folder  `./eupenapp`
+Navigate to the root folder  `./maylortaylorwebsite`
 flutter packages get
 // installs dependencies from pubspec.yaml
 
