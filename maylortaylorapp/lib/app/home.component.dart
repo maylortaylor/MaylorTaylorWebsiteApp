@@ -36,7 +36,7 @@ class _HomeComponentState extends State<HomeComponent> {
           color: Colors.deepPurple,
           child: const Center(
             child: Text(
-              'Waiting.....',
+              'You found a secret.....',
               style: TextStyle(color: Colors.white),
             ),
           ),
